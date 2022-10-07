@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Titan+One&display=swap");
+
+/*Typography
+--------------------------------------------------------------*/
+body,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+h1 {
+  font-family: "Titan One", sans-serif;
+  font-size: 60px;
+  letter-spacing: 2px;
+  color: rgb(156, 0, 200);
+  margin: 2rem 0 0 2rem;
+}
+
+h2 {
+	margin: 1rem 0 2rem 2rem;
+	font-size: 25px;
+}

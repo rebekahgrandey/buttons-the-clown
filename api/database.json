@@ -1,0 +1,54 @@
+{
+  "reservations": [
+    {
+      "parentName": "Kate Bush",
+      "childName": "Max",
+      "childCount": "7",
+      "address": "130 Pike Hill Rd, McMinnville, TN 37110",
+      "date": "2022-11-05",
+      "duration": "3",
+      "id": 1
+    },
+    {
+      "parentName": "Bob Smith",
+      "childName": "Bob Jr.",
+      "childCount": "10",
+      "address": "68 John Trail, McMinnville, TN, 37110",
+      "date": "2022-10-22",
+      "duration": "4",
+      "id": 2
+    }
+  ],
+  "completedParties": [
+    {
+      "requestId": "1",
+      "clownId": "2",
+      "id": 1
+    },
+    {
+      "requestId": "1",
+      "clownId": "2",
+      "id": 2
+    },
+    {
+      "requestId": "2",
+      "clownId": "2",
+      "id": 3
+    },
+    {
+      "requestId": "1",
+      "clownId": "1",
+      "id": 4
+    }
+  ],
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ]
+}
